@@ -13,4 +13,4 @@ Motivated Full Stack Developer with a strong foundation in web development and c
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=omkakde2003&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkakde2003&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkakde2003&layout=compact&theme=dark&langs_count=8)
